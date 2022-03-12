@@ -1,7 +1,7 @@
 # Vocab-Bot
 This python script just reads the vocab from one text file and spits it out into another
 
-make sure to have two libraries installed
+make sure to have two libraries installed (run these in powershell or command prompt if you have python with pip installed)
   1) wikipedia : pip3 install wikipedia
   2) PyDictionary : pip3 install PyDictionary
 
