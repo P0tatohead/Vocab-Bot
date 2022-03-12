@@ -5,7 +5,7 @@ make sure to have two libraries installed
   1) wikipedia : pip3 install wikipedia
   2) PyDictionary : pip3 install PyDictionary
 
-Clear the vocab.txt file and input the newest vocab from the Monkeys
+Clear the vocab.txt file and input the newest vocab from the Monkeys, 
 Run the script and find the defintion.txt file with all of the defintion
 
 IMPORTANT:
